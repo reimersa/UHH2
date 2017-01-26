@@ -331,6 +331,717 @@ const std::vector<std::string> JERFiles::Spring16_25ns_L123_AK8PFPuppi_DATA = {
 };
 
 
+/* ++++++++++ For Closure test of V8 JEC +++++++++++ */
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L123_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L3Absolute_AK4PFchs.txt",
+};
+
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L123_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L1FastJet_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2Relative_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L3Absolute_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2L3Residual_AK8PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L123_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L1FastJet_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2Relative_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L3Absolute_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2L3Residual_AK8PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L123_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L1FastJet_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2Relative_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L3Absolute_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2L3Residual_AK8PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L123_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L1FastJet_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L2Relative_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L3Absolute_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L2L3Residual_AK8PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L123_AK8PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L1FastJet_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L2Relative_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L3Absolute_AK8PFchs.txt",
+};
+
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L23_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2Relative_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L3Absolute_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2L3Residual_AK4PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L23_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2Relative_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L3Absolute_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2L3Residual_AK4PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L23_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2Relative_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L3Absolute_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2L3Residual_AK4PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L23_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L2Relative_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L3Absolute_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L2L3Residual_AK4PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L23_AK4PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L2Relative_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L3Absolute_AK4PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L23_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2Relative_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L3Absolute_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2L3Residual_AK8PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L23_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2Relative_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L3Absolute_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2L3Residual_AK8PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L23_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2Relative_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L3Absolute_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2L3Residual_AK8PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L23_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L2Relative_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L3Absolute_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L2L3Residual_AK8PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L23_AK8PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L2Relative_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L3Absolute_AK8PFPuppi.txt",
+};
+
+
+/* ++++++++++++++++++++++++++++ For derivation of new Residuals based on V8, MC taken from above  +++++++++++++++++++++++++++++++++++++++++++ */
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L23_noRes_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8BCD_DATA_L2Relative_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8BCD_DATA_L3Absolute_AK4PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L23_noRes_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8E_DATA_L2Relative_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8E_DATA_L3Absolute_AK4PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L23_noRes_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8F_DATA_L2Relative_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8F_DATA_L3Absolute_AK4PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L23_noRes_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L2Relative_AK4PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L3Absolute_AK4PFPuppi.txt",
+};
+
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L123_noRes_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L1FastJet_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L2Relative_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L3Absolute_AK8PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L123_noRes_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L1FastJet_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L2Relative_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L3Absolute_AK8PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L123_noRes_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L1FastJet_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L2Relative_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L3Absolute_AK8PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L123_noRes_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L1FastJet_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L2Relative_AK8PFchs.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8_DATA/Spring16_25nsV8_DATA_L3Absolute_AK8PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L23_noRes_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8BCD_DATA_L2Relative_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8BCD_DATA_L3Absolute_AK8PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L23_noRes_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8E_DATA_L2Relative_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8E_DATA_L3Absolute_AK8PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L23_noRes_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8F_DATA_L2Relative_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8F_DATA_L3Absolute_AK8PFPuppi.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L23_noRes_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L2Relative_AK8PFPuppi.txt",
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L3Absolute_AK8PFPuppi.txt",
+};
+
+
+/* +++++++++++++++++++++++ L1RC correction on DATA and MC RunG ++++++++++++++++++++++++++++++ */
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L1RC_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_MC/Spring16_25nsV8BCD_MC_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L1RC_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_MC/Spring16_25nsV8E_MC_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L1RC_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_MC/Spring16_25nsV8F_MC_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L1RC_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L1RC_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L1RC_AK8PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L1RC_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L1RC_AK8PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L1RC_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L1RC_AK8PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L1RC_AK8PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L1RC_AK8PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L1RC_AK8PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_MC/Spring16_25nsV8BCD_MC_L1RC_AK8PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L1RC_AK8PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_MC/Spring16_25nsV8E_MC_L1RC_AK8PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L1RC_AK8PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_MC/Spring16_25nsV8F_MC_L1RC_AK8PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L1RC_AK8PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L1RC_AK8PFchs.txt"
+};
+
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L1RC_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L1RC_AK4PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L1RC_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L1RC_AK4PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L1RC_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L1RC_AK4PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L1RC_AK4PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L1RC_AK4PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L1RC_AK4PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_MC/Spring16_25nsV8BCD_MC_L1RC_AK4PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L1RC_AK4PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_MC/Spring16_25nsV8E_MC_L1RC_AK4PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L1RC_AK4PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_MC/Spring16_25nsV8F_MC_L1RC_AK4PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L1RC_AK4PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L1RC_AK4PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L1RC_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_DATA/Spring16_25nsV8BCD_DATA_L1RC_AK8PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L1RC_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_DATA/Spring16_25nsV8E_DATA_L1RC_AK8PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L1RC_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_DATA/Spring16_25nsV8F_DATA_L1RC_AK8PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L1RC_AK8PFPuppi_DATA = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_DATA/Spring16_25nsV8p2_DATA_L1RC_AK8PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_BCD_L1RC_AK8PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8BCD_MC/Spring16_25nsV8BCD_MC_L1RC_AK8PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_E_L1RC_AK8PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8E_MC/Spring16_25nsV8E_MC_L1RC_AK8PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_F_L1RC_AK8PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8F_MC/Spring16_25nsV8F_MC_L1RC_AK8PFPuppi.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_25ns_V8_G_L1RC_AK8PFPuppi_MC = {
+  "JECDatabase/textFiles/Spring16_25nsV8p2_MC/Spring16_25nsV8p2_MC_L1RC_AK8PFPuppi.txt"
+};
+
+/* ++++++++++++++ Summer16_23Sep2016_V2_noRes +++++++++++++++ */
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_BCD_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV2_DATA/Summer16_23Sep2016BCDV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV2_DATA/Summer16_23Sep2016BCDV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV2_DATA/Summer16_23Sep2016BCDV2_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_EF_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV2_DATA/Summer16_23Sep2016EFV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV2_DATA/Summer16_23Sep2016EFV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV2_DATA/Summer16_23Sep2016EFV2_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_G_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016GV2_DATA/Summer16_23Sep2016GV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GV2_DATA/Summer16_23Sep2016GV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GV2_DATA/Summer16_23Sep2016GV2_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_H_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016HV2_DATA/Summer16_23Sep2016HV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016HV2_DATA/Summer16_23Sep2016HV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016HV2_DATA/Summer16_23Sep2016HV2_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_L123_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Summer16_23Sep2016V2_MC/Summer16_23Sep2016V2_MC_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016V2_MC/Summer16_23Sep2016V2_MC_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016V2_MC/Summer16_23Sep2016V2_MC_L3Absolute_AK4PFchs.txt",
+};
+
+
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_BCD_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV2_DATA/Summer16_23Sep2016BCDV2_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_EF_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV2_DATA/Summer16_23Sep2016EFV2_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_G_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016GV2_DATA/Summer16_23Sep2016GV2_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_H_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016HV2_DATA/Summer16_23Sep2016HV2_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_L1RC_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Summer16_23Sep2016V2_MC/Summer16_23Sep2016V2_MC_L1RC_AK4PFchs.txt"
+};
+
+
+/* ++++++++++++++ JEC for Moriond17 +++++++++++++++ */
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_BCD_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV0_DATA/Summer16_23Sep2016BCDV0_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV0_DATA/Summer16_23Sep2016BCDV0_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV0_DATA/Summer16_23Sep2016BCDV0_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_E_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016EV0_DATA/Summer16_23Sep2016EV0_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EV0_DATA/Summer16_23Sep2016EV0_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EV0_DATA/Summer16_23Sep2016EV0_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_F_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016FV0_DATA/Summer16_23Sep2016FV0_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016FV0_DATA/Summer16_23Sep2016FV0_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016FV0_DATA/Summer16_23Sep2016FV0_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_GH_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016GHV0_DATA/Summer16_23Sep2016GHV0_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GHV0_DATA/Summer16_23Sep2016GHV0_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GHV0_DATA/Summer16_23Sep2016GHV0_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_L123_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Summer16_23Sep2016V0_MC/Summer16_23Sep2016V0_MC_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016V0_MC/Summer16_23Sep2016V0_MC_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016V0_MC/Summer16_23Sep2016V0_MC_L3Absolute_AK4PFchs.txt",
+};
+
+
+
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_BCD_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV0_DATA/Summer16_23Sep2016BCDV0_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_E_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016EV0_DATA/Summer16_23Sep2016EV0_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_F_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016FV0_DATA/Summer16_23Sep2016FV0_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_GH_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016GHV0_DATA/Summer16_23Sep2016GHV0_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V0_L1RC_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Summer16_23Sep2016V0_MC/Summer16_23Sep2016V0_MC_L1RC_AK4PFchs.txt"
+};
+
+
+/***************** Closure test of Summer16_23Sep2016_V2 *******************************************/
+
+                                         
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_BCD_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV2_DATA/Summer16_23Sep2016BCDV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV2_DATA/Summer16_23Sep2016BCDV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV2_DATA/Summer16_23Sep2016BCDV2_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV2_DATA/Summer16_23Sep2016BCDV2_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_EF_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV2_DATA/Summer16_23Sep2016EFV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV2_DATA/Summer16_23Sep2016EFV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV2_DATA/Summer16_23Sep2016EFV2_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV2_DATA/Summer16_23Sep2016EFV2_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_G_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016GV2_DATA/Summer16_23Sep2016GV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GV2_DATA/Summer16_23Sep2016GV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GV2_DATA/Summer16_23Sep2016GV2_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GV2_DATA/Summer16_23Sep2016GV2_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V2_H_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016HV2_DATA/Summer16_23Sep2016HV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016HV2_DATA/Summer16_23Sep2016HV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016HV2_DATA/Summer16_23Sep2016HV2_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016HV2_DATA/Summer16_23Sep2016HV2_DATA_L2L3Residual_AK4PFchs.txt",
+};
+     
+// For MC already defined in 'derivation of Summer16_23Sep2016_V2'                                     
+
+
+
+// For L1RC already defined in 'derivation of Summer16_23Sep2016_V2'
+
+
+
+/***************** Closure test of Summer16_23Sep2016_V3 *******************************************/
+
+                                         
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_BCD_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV3_DATA/Summer16_23Sep2016BCDV3_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV3_DATA/Summer16_23Sep2016BCDV3_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV3_DATA/Summer16_23Sep2016BCDV3_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV3_DATA/Summer16_23Sep2016BCDV3_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_EF_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV3_DATA/Summer16_23Sep2016EFV3_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV3_DATA/Summer16_23Sep2016EFV3_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV3_DATA/Summer16_23Sep2016EFV3_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV3_DATA/Summer16_23Sep2016EFV3_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_G_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016GV3_DATA/Summer16_23Sep2016GV3_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GV3_DATA/Summer16_23Sep2016GV3_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GV3_DATA/Summer16_23Sep2016GV3_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016GV3_DATA/Summer16_23Sep2016GV3_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_H_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016HV3_DATA/Summer16_23Sep2016HV3_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016HV3_DATA/Summer16_23Sep2016HV3_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016HV3_DATA/Summer16_23Sep2016HV3_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016HV3_DATA/Summer16_23Sep2016HV3_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_L123_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Summer16_23Sep2016V3_MC/Summer16_23Sep2016V3_MC_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016V3_MC/Summer16_23Sep2016V3_MC_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Summer16_23Sep2016V3_MC/Summer16_23Sep2016V3_MC_L3Absolute_AK4PFchs.txt",
+};
+
+
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_BCD_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016BCDV3_DATA/Summer16_23Sep2016BCDV3_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_EF_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016EFV3_DATA/Summer16_23Sep2016EFV3_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_G_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016GV3_DATA/Summer16_23Sep2016GV3_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_H_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Summer16_23Sep2016HV3_DATA/Summer16_23Sep2016HV3_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Summer16_23Sep2016_V3_L1RC_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Summer16_23Sep2016V3_MC/Summer16_23Sep2016V3_MC_L1RC_AK4PFchs.txt"
+};
+
+
+/* ++++++++++++++ Derivation of ReReco Data + Spring16 MC +++++++++++++++ */
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_BCD_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016BCDV1_DATA/Spring16_23Sep2016BCDV1_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016BCDV1_DATA/Spring16_23Sep2016BCDV1_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016BCDV1_DATA/Spring16_23Sep2016BCDV1_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_E_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016EV1_DATA/Spring16_23Sep2016EV1_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016EV1_DATA/Spring16_23Sep2016EV1_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016EV1_DATA/Spring16_23Sep2016EV1_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_F_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016FV1_DATA/Spring16_23Sep2016FV1_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016FV1_DATA/Spring16_23Sep2016FV1_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016FV1_DATA/Spring16_23Sep2016FV1_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_GH_L123_noRes_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016GHV1_DATA/Spring16_23Sep2016GHV1_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016GHV1_DATA/Spring16_23Sep2016GHV1_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016GHV1_DATA/Spring16_23Sep2016GHV1_DATA_L3Absolute_AK4PFchs.txt",
+};
+
+
+
+/* ++++++++++++++ Closure test of ReReco Data + Spring16 MC V1 +++++++++++++++ */
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_BCD_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016BCDV1_DATA/Spring16_23Sep2016BCDV1_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016BCDV1_DATA/Spring16_23Sep2016BCDV1_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016BCDV1_DATA/Spring16_23Sep2016BCDV1_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016BCDV1_DATA/Spring16_23Sep2016BCDV1_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_E_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016EV1_DATA/Spring16_23Sep2016EV1_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016EV1_DATA/Spring16_23Sep2016EV1_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016EV1_DATA/Spring16_23Sep2016EV1_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016EV1_DATA/Spring16_23Sep2016EV1_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_F_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016FV1_DATA/Spring16_23Sep2016FV1_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016FV1_DATA/Spring16_23Sep2016FV1_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016FV1_DATA/Spring16_23Sep2016FV1_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016FV1_DATA/Spring16_23Sep2016FV1_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_GH_L123_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016GHV1_DATA/Spring16_23Sep2016GHV1_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016GHV1_DATA/Spring16_23Sep2016GHV1_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016GHV1_DATA/Spring16_23Sep2016GHV1_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016GHV1_DATA/Spring16_23Sep2016GHV1_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_L123_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_23Sep2016V1_MC/Spring16_23Sep2016V1_MC_L1FastJet_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016V1_MC/Spring16_23Sep2016V1_MC_L2Relative_AK4PFchs.txt",
+  "JECDatabase/textFiles/Spring16_23Sep2016V1_MC/Spring16_23Sep2016V1_MC_L3Absolute_AK4PFchs.txt",
+};
+
+
+
+ 
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_BCD_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016BCDV1_DATA/Spring16_23Sep2016BCDV1_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_E_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016EV1_DATA/Spring16_23Sep2016EV1_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_F_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016FV1_DATA/Spring16_23Sep2016FV1_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_GH_L1RC_AK4PFchs_DATA = {
+  "JECDatabase/textFiles/Spring16_23Sep2016GHV1_DATA/Spring16_23Sep2016GHV1_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V1_L1RC_AK4PFchs_MC = {
+  "JECDatabase/textFiles/Spring16_23Sep2016V1_MC/Spring16_23Sep2016V1_MC_L1RC_AK4PFchs.txt"
+};
+
+
+
+/* ++++++++++++++ Closure test of Spring16_23Sep2016_V2 +++++++++++++++ */
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_BCD_L123_AK4PFchs_DATA = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016BCDV2_DATA/Spring16_23Sep2016BCDV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016BCDV2_DATA/Spring16_23Sep2016BCDV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016BCDV2_DATA/Spring16_23Sep2016BCDV2_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016BCDV2_DATA/Spring16_23Sep2016BCDV2_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_EF_L123_AK4PFchs_DATA = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016EFV2_DATA/Spring16_23Sep2016EFV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016EFV2_DATA/Spring16_23Sep2016EFV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016EFV2_DATA/Spring16_23Sep2016EFV2_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016EFV2_DATA/Spring16_23Sep2016EFV2_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_G_L123_AK4PFchs_DATA = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016GV2_DATA/Spring16_23Sep2016GV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016GV2_DATA/Spring16_23Sep2016GV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016GV2_DATA/Spring16_23Sep2016GV2_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016GV2_DATA/Spring16_23Sep2016GV2_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_H_L123_AK4PFchs_DATA = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016HV2_DATA/Spring16_23Sep2016HV2_DATA_L1FastJet_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016HV2_DATA/Spring16_23Sep2016HV2_DATA_L2Relative_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016HV2_DATA/Spring16_23Sep2016HV2_DATA_L3Absolute_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016HV2_DATA/Spring16_23Sep2016HV2_DATA_L2L3Residual_AK4PFchs.txt",
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_L123_AK4PFchs_MC = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016V2_MC/Spring16_23Sep2016V2_MC_L1FastJet_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016V2_MC/Spring16_23Sep2016V2_MC_L2Relative_AK4PFchs.txt",
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016V2_MC/Spring16_23Sep2016V2_MC_L3Absolute_AK4PFchs.txt",
+};
+
+
+
+ 
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_BCD_L1RC_AK4PFchs_DATA = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016BCDV2_DATA/Spring16_23Sep2016BCDV2_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_EF_L1RC_AK4PFchs_DATA = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016EFV2_DATA/Spring16_23Sep2016EFV2_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_G_L1RC_AK4PFchs_DATA = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016GV2_DATA/Spring16_23Sep2016GV2_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_H_L1RC_AK4PFchs_DATA = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016HV2_DATA/Spring16_23Sep2016HV2_DATA_L1RC_AK4PFchs.txt"
+};
+
+const std::vector<std::string> JERFiles::Spring16_23Sep2016_V2_L1RC_AK4PFchs_MC = {
+  "JECDatabase_Anastasia/textFiles/Spring16_23Sep2016V2_MC/Spring16_23Sep2016V2_MC_L1RC_AK4PFchs.txt"
+};
+
+
 
 namespace {
     
@@ -394,25 +1105,46 @@ std::unique_ptr<FactorizedJetCorrector> build_corrector(const std::vector<std::s
   //apply type1 MET correction to RAW MET
   //NB: jet with substracted muon Pt should be used
 
-  void correct_MET(const Event & event, bool used_ak4chs, int dir=-1){
-    //    LorentzVector metv4= event.met->uncorr_v4();
-    LorentzVector metv4= event.met->v4();
+  void correct_MET(const Event & event, const bool & do_L1corr, const bool do_L1RCcorr, FactorizedJetCorrector & corrector_L1RC){
+
+    //we start from raw MET
+    LorentzVector metv4= event.met->uncorr_v4();
+
     for(auto & jet : *event.jets){
-      if(jet.v4().Pt() > 15 && (jet.neutralEmEnergyFraction()+jet.chargedEmEnergyFraction())<0.9){//cut applied on the corrected jets with EM fraction <0.9
+      //thresholds on the corrected jets: pt > 15, EM fraction < 0.9
+      if(jet.v4().Pt() > 15 && (jet.neutralEmEnergyFraction()+jet.chargedEmEnergyFraction())<0.9){
 	auto factor_raw = jet.JEC_factor_raw();
 	auto L1factor_raw = jet.JEC_L1factor_raw();
-	LorentzVector type1METcorr = jet.v4();
-	LorentzVector type1METoffsetcorr = (L1factor_raw*factor_raw)*jet.v4();//Raw jet!
 
-	metv4 += dir*type1METcorr;
-	if(used_ak4chs) 
-	  metv4 += type1METoffsetcorr;
+	corrector_L1RC.setJetPt(jet.pt() * factor_raw);
+	corrector_L1RC.setJetEta(jet.eta());
+	corrector_L1RC.setJetE(jet.energy() * factor_raw);
+	corrector_L1RC.setJetA(jet.jetArea());
+	corrector_L1RC.setRho(event.rho);
+	auto correctionfactors_L1RC = corrector_L1RC.getSubCorrections();
+	auto correctionfactor_L1RC  = correctionfactors_L1RC.back();
+
+
+	LorentzVector L1corr =   (L1factor_raw*factor_raw)*jet.v4();            //L1 corrected jets
+	LorentzVector L1RCcorr = (correctionfactor_L1RC*factor_raw)*jet.v4();   //L1RC corrected jets
+	LorentzVector L123corr = jet.v4();                                      //L123 corrected jets (L23 in case of puppi)
+
+	metv4 -=  L123corr;
+
+	//For Puppi jets, no L1 correction is needed
+	if(do_L1corr){
+	  //slimmed MET is corrected by L1FastJet, CHS MET is corrected by L1RC
+	  if(!do_L1RCcorr) metv4 += L1corr;
+	  else             metv4 += L1RCcorr;
+	}
       }
     }
+
     event.met->set_pt(metv4.Pt());
     event.met->set_phi(metv4.Phi());
   }
 
+  
 
 JetCorrectionUncertainty* corrector_uncertainty(uhh2::Context & ctx, const std::vector<std::string> & filenames, int &direction){
     
@@ -450,13 +1182,37 @@ JetCorrectionUncertainty* corrector_uncertainty(uhh2::Context & ctx, const std::
 
 }
 
-JetCorrector::JetCorrector(uhh2::Context & ctx, const std::vector<std::string> & filenames){
+JetCorrector::JetCorrector(uhh2::Context & ctx, const std::vector<std::string> & filenames, const std::vector<std::string> & filenames_L1RC){
     corrector = build_corrector(filenames);
     direction = 0;
 
+    //MET should only be corrected using AK8 jets, iff there is no AK4 collection that could be used for this because the calculation of our raw MET is based on AK4 jets
     used_ak4chs = ctx.get("JetCollection")=="slimmedJets";
     used_ak4puppi = ctx.get("JetCollection")=="slimmedJetsPuppi";
-    propagate_to_met = used_ak4chs || used_ak4puppi;
+    metprop_possible_ak8chs = ctx.get("JetCollection")=="patJetsAK8PFCHS";
+    metprop_possible_ak8puppi = ctx.get("JetCollection")=="patJetsAK8PFPUPPI";
+
+    //MET is always corrected using the jet collection stated in the "JetCollection" Item in the context and only in case one of the stated jet collections is used. 
+    //Particularly, only one of these two AK8 collections should be used.
+    propagate_to_met = used_ak4chs || used_ak4puppi || metprop_possible_ak8chs || metprop_possible_ak8puppi;
+    if(!propagate_to_met) cout << "WARNING in JetCorrections.cxx: You specified a jet collection in the 'JetCollection' item in the config file that is not suited to correct MET. You should change that if zou are using MET." << endl;
+
+    //The first two collections are standard MET collections. The third one is only used for derivation of JECs
+    used_slimmedmet = ctx.get("METName")=="slimmedMETs";
+    used_puppimet = ctx.get("METName")=="slimmedMETsPuppi";
+    used_chsmet = ctx.get("METName")=="slMETsCHS";
+    if((used_slimmedmet || used_chsmet) && !(used_ak4chs || metprop_possible_ak8chs)) throw runtime_error("In JetCorrections.cxx: You are using slimmedMET or slMETchs but neither AK4CHS nor AK8CHS jets. You need to correct MET using one of those two.");
+    else if(used_puppimet && !(used_ak4puppi || metprop_possible_ak8puppi)) throw runtime_error("In JetCorrections.cxx: You are using slimmedMETpuppi but neither AK4Puppi nor AK8Puppi jets. You need to correct MET using one of those two.");
+
+    //if CHS MET is used, the correction is based on the (L123 - L1RC) scheme, else it is based on the standard (L123-L1).
+    //See also: https://twiki.cern.ch/twiki/bin/viewauth/CMS/METType1Type2Formulae
+    do_metL1RC = propagate_to_met && used_chsmet;
+    
+    //If using CHS MET and therefore going for (L123 - L1RC), the L1RC corrections have to be provided in a separate const std::vector<std::string>. This must only contain the L1RC correction.
+    if(do_metL1RC && (filenames_L1RC.size() == 1)) corrector_L1RC = build_corrector(filenames_L1RC);
+    else if(do_metL1RC && (filenames_L1RC.size() != 1)) throw runtime_error("In JetCorrections.cxx: CHS MET should be corrected via (L123 - L1RC) but the JERFile for L1RC is empty or too large (should have one entry).");
+    //create dummy if L1RC is not needed. It is not applied anyway
+    else corrector_L1RC = build_corrector(filenames);
 
     jec_uncertainty = corrector_uncertainty(ctx, filenames, direction) ;
 }
@@ -464,17 +1220,28 @@ JetCorrector::JetCorrector(uhh2::Context & ctx, const std::vector<std::string> &
 bool JetCorrector::process(uhh2::Event & event){
     assert(event.jets);
 
-    if(propagate_to_met && used_ak4puppi)
-      correct_MET(event, used_ak4chs,+1);//TEST
-
+    //apply jet corrections
     for(auto & jet : *event.jets){
       correct_jet(*corrector, jet, event, jec_uncertainty, direction);
     }
-    if(propagate_to_met)
-
-      correct_MET(event, used_ak4chs,-1);
+ 
+    /*
+    //propagate jet corrections to MET
+    bool correct_with_chs = used_ak4chs || metprop_possible_ak8chs;
+    correct_MET(event, correct_with_chs, do_metL1RC, *corrector_L1RC); 
+    */	
 
     return true;
+}
+
+bool JetCorrector::correct_met(uhh2::Event & event){
+  assert(event.jets);
+
+  //propagate jet corrections to MET
+  bool correct_with_chs = used_ak4chs || metprop_possible_ak8chs;
+  correct_MET(event, correct_with_chs, do_metL1RC, *corrector_L1RC); 
+  
+  return true;
 }
 
 // note: implement here because only here (and not in the header file), the destructor of FactorizedJetCorrector is known
@@ -782,7 +1549,7 @@ bool JetLeptonCleaner_by_KEYmatching::process(uhh2::Event& event){
 //// ----- modules for Jet Energy Resolution data/MC corrections -----
 
 // https://twiki.cern.ch/twiki/bin/view/CMS/JetResolution [13TeV JER measurement]
-const JERSmearing::SFtype1 JERSmearing::SF_13TeV_2015 = {
+const JERSmearing::SFtype1 JERSmearing::SF_13TeV_2016 = {
   // 0 = upper jet-eta limit
   // 1 = JER SF
   // 2 = JER SF + 1sigma
@@ -800,6 +1567,46 @@ const JERSmearing::SFtype1 JERSmearing::SF_13TeV_2015 = {
   {{3.0, 1.595, 1.770, 1.420}},
   {{3.2, 0.998, 1.064, 0.932}},
   {{5.0, 1.226, 1.371, 1.081}},
+};
+
+const JERSmearing::SFtype1 JERSmearing::SF_13TeV_2015 = {
+  // 0 = upper jet-eta limit
+  // 1 = JER SF
+  // 2 = JER SF + 1sigma
+  // 3 = JER SF - 1sigma
+  {{0.5, 1.095, -1, -1}},
+  {{0.8, 1.120, -1, -1}},
+  {{1.1, 1.097, -1, -1}},
+  {{1.3, 1.103, -1, -1}},
+  {{1.7, 1.118, -1, -1}},
+  {{1.9, 1.100, -1, -1}},
+  {{2.1, 1.162, -1, -1}},
+  {{2.3, 1.160, -1, -1}},
+  {{2.5, 1.161, -1, -1}},
+  {{2.8, 1.209, -1, -1}},
+  {{3.0, 1.564, -1, -1}},
+  {{3.2, 1.384, -1, -1}},
+  {{5.0, 1.216, -1, -1}},
+};
+
+const JERSmearing::SFtype1 JERSmearing::SF_13TeV_2016_full = {
+  // 0 = upper jet-eta limit
+  // 1 = JER SF
+  // 2 = JER SF + 1sigma
+  // 3 = JER SF - 1sigma
+  {{0.5, 1.109, 1.117, 1.101}},
+  {{0.8, 1.138, 1.151, 1.125}},
+  {{1.1, 1.114, 1.127, 1.101}},
+  {{1.3, 1.123, 1.147, 1.099}},
+  {{1.7, 1.081, 1.092, 1.070}},
+  {{1.9, 1.082, 1.117, 1.047}},
+  {{2.1, 1.140, 1.187, 1.093}},
+  {{2.3, 1.067, 1.120, 1.014}},
+  {{2.5, 1.177, 1.218, 1.136}},
+  {{2.8, 1.364, 1.403, 1.325}},
+  {{3.0, 1.857, 1.928, 1.786}},
+  {{3.2, 1.328, 1.350, 1.306}},
+  {{5.0, 1.160, 1.189, 1.131}},
 };
 
 ////
@@ -876,7 +1683,7 @@ bool JetResolutionSmearer::process(uhh2::Event & event) {
             c = JER_SFs_.at(ieta).at(3);
         }
         float new_pt = std::max(0.0f, genpt + c * (recopt - genpt));
-        jet_v4 *= new_pt / recopt;
+        jet_v4 *= new_pt / recopt;	
         jet.set_v4(jet_v4);
     
         //propagate JER shifts to MET by using same factor, but for raw jet p4:

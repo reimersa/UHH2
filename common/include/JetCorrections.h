@@ -58,6 +58,154 @@ namespace JERFiles {
     extern const std::vector<std::string> Spring16_25ns_L23_noRes_AK4PFPuppi_DATA;
     extern const std::vector<std::string> Spring16_25ns_L23_noRes_AK4PFchs_DATA;
 
+    //for V8 closure test
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L123_AK4PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L123_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L123_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L123_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L123_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L123_AK8PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L23_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L23_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L23_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L23_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L23_AK4PFPuppi_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L23_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L23_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L23_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L23_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L23_AK8PFPuppi_MC;
+                                          
+
+    //for new L2 res based on v8
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L23_noRes_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L23_noRes_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L23_noRes_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L23_noRes_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L123_noRes_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L123_noRes_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L123_noRes_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L123_noRes_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L23_noRes_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L23_noRes_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L23_noRes_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L23_noRes_AK8PFPuppi_DATA;
+
+    //V8 L1RC correction on DATA and MC
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L1RC_AK4PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L1RC_AK4PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L1RC_AK4PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L1RC_AK4PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L1RC_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L1RC_AK8PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L1RC_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L1RC_AK8PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L1RC_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L1RC_AK8PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L1RC_AK8PFchs_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L1RC_AK8PFchs_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L1RC_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L1RC_AK4PFPuppi_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L1RC_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L1RC_AK4PFPuppi_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L1RC_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L1RC_AK4PFPuppi_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L1RC_AK4PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L1RC_AK4PFPuppi_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L1RC_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_BCD_L1RC_AK8PFPuppi_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L1RC_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_E_L1RC_AK8PFPuppi_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L1RC_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_F_L1RC_AK8PFPuppi_MC;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L1RC_AK8PFPuppi_DATA;
+    extern const std::vector<std::string> Spring16_25ns_V8_G_L1RC_AK8PFPuppi_MC;
+
+    //For Moriond17
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_BCD_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_E_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_F_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_GH_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_L123_AK4PFchs_MC;
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_BCD_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_E_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_F_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_GH_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V0_L1RC_AK4PFchs_MC;   
+
+    //Summer16_23Sep2016_V2 --> For derivation of V3
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_BCD_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_EF_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_G_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_H_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_L123_AK4PFchs_MC;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_BCD_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_EF_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_G_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_H_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_L1RC_AK4PFchs_MC;   
+
+    //Derivation of ReReco Data + Spring16 MC
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_BCD_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_E_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_F_L123_noRes_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_GH_L123_noRes_AK4PFchs_DATA;     
+
+    //Closure test ReReco Data + Spring16 MC V1
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_BCD_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_E_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_F_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_GH_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_L123_AK4PFchs_MC;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_BCD_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_E_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_F_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_GH_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V1_L1RC_AK4PFchs_MC;  
+
+    //Closure test Spring16_23Sep2016_V2
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_BCD_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_EF_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_G_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_H_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_L123_AK4PFchs_MC;
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_BCD_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_EF_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_G_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_H_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Spring16_23Sep2016_V2_L1RC_AK4PFchs_MC;           
+
+    //Closure test Summer16_23Sep2016_V2
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_BCD_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_EF_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_G_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V2_H_L123_AK4PFchs_DATA;
+
+    //Closure test Summer16_23Sep2016_V3
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_BCD_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_EF_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_G_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_H_L123_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_L123_AK4PFchs_MC;
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_BCD_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_EF_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_G_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_H_L1RC_AK4PFchs_DATA;
+    extern const std::vector<std::string> Summer16_23Sep2016_V3_L1RC_AK4PFchs_MC; 
+
+
 }
 
 /** \brief (Re-)Correct jets according to the corrections in the passed txt files
@@ -75,20 +223,28 @@ namespace JERFiles {
  */
 class JetCorrector: public uhh2::AnalysisModule {
 public:
-    explicit JetCorrector(uhh2::Context & ctx, const std::vector<std::string> & filenames);
+  explicit JetCorrector(uhh2::Context & ctx, const std::vector<std::string> & filenames, const std::vector<std::string> & filenames_L1RC = {});
     
     virtual bool process(uhh2::Event & event) override;
+    virtual bool correct_met(uhh2::Event & event);
     
     virtual ~JetCorrector();
     
 private:
     std::unique_ptr<FactorizedJetCorrector> corrector;
+    std::unique_ptr<FactorizedJetCorrector> corrector_L1RC;
     
     JetCorrectionUncertainty* jec_uncertainty;
     int direction = 0; // -1 = down, +1 = up, 0 = nominal
     bool propagate_to_met = false;
     bool used_ak4puppi = false;
     bool used_ak4chs = false;
+    bool metprop_possible_ak8chs = false;
+    bool metprop_possible_ak8puppi = false;
+    bool used_slimmedmet = false;
+    bool used_puppimet = false;
+    bool used_chsmet = false;
+    bool do_metL1RC = false;
 };
 
 class TopJetCorrector: public uhh2::AnalysisModule {
@@ -261,6 +417,9 @@ namespace JERSmearing {
   typedef std::vector<std::array<float, 4> > SFtype1;
 
   extern const SFtype1 SF_13TeV_2015;
+  extern const SFtype1 SF_13TeV_2016;
+  extern const SFtype1 SF_13TeV_2016_full;
+
 }
 
 /** \brief Smear the jet four-momenta in MC to match the resolution in data
@@ -284,7 +443,7 @@ namespace JERSmearing {
  */
 class JetResolutionSmearer: public uhh2::AnalysisModule {
 public:
-    explicit JetResolutionSmearer(uhh2::Context & ctx, const JERSmearing::SFtype1& JER_sf=JERSmearing::SF_13TeV_2015);
+    explicit JetResolutionSmearer(uhh2::Context & ctx, const JERSmearing::SFtype1& JER_sf=JERSmearing::SF_13TeV_2016);
 
     virtual bool process(uhh2::Event & event) override;
 
@@ -310,7 +469,7 @@ class GenericJetResolutionSmearer : public uhh2::AnalysisModule {
 
  public:
   explicit GenericJetResolutionSmearer(uhh2::Context&, const std::string& recj="jets", const std::string& genj="genjets", const bool allow_met_smear=true,
-                                       const JERSmearing::SFtype1& JER_sf=JERSmearing::SF_13TeV_2015);
+                                       const JERSmearing::SFtype1& JER_sf=JERSmearing::SF_13TeV_2016);
   virtual ~GenericJetResolutionSmearer() {}
 
   virtual bool process(uhh2::Event&) override;
@@ -368,8 +527,12 @@ void GenericJetResolutionSmearer::apply_JER_smearing(std::vector<RJ>& rec_jets, 
     else throw std::runtime_error("GenericJetResolutionSmearer::process -- invalid value for JER 'direction' (must be 0, +1 or -1): "+std::to_string(direction));
 
     const float new_pt = std::max(0.0f, genpt + c * (recopt - genpt));
-
     jet_v4 *= new_pt / recopt;
+
+    float factor_raw = jet.JEC_factor_raw();
+    factor_raw *= recopt/new_pt;
+
+    jet.set_JEC_factor_raw(factor_raw);
     jet.set_v4(jet_v4);
 
     // propagate JER shifts to MET by using same factor, but for raw jet p4:

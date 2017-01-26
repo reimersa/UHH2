@@ -57,7 +57,8 @@ bool JetPFID::looseID(const Jet & jet) const{
       return true;   
   }
   else if(fabs(jet.eta())>2.7 && fabs(jet.eta())<=3
-	  &&jet.neutralEmEnergyFraction()<0.90
+	  &&jet.neutralEmEnergyFraction()>0.01
+	  && jet.neutralHadronEnergyFraction()<0.98
 	  &&jet.neutralMultiplicity()>2){
     return true;
   }
