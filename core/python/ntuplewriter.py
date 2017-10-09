@@ -60,12 +60,17 @@ if isDebug:
 process.source = cms.Source("PoolSource",
   fileNames  = cms.untracked.vstring([
 #            'file:////nfs/dust/cms/user/hinzmann/6214AEE4-751A-E711-8645-0025905A6056.root'
-            '/store/data/Run2017B/SingleMuon/MINIAOD/PromptReco-v1/000/297/046/00000/32AC3177-7A56-E711-BE34-02163E019D73.root'
+            'file:////nfs/dust/cms/user/reimersa/CMSSW_9_2_4/src/UHH2/core/python/MiniAOD_SingleEle_RunCv1.root'
+            #'file:////nfs/dust/cms/user/abenecke/CMSSW_9_2_3_patch1/src/UHH2/core/python/0073C1C6-C59B-E711-A43E-02163E017CBA.root'
   ]),
   skipEvents = cms.untracked.uint32(0)
 )
 
+<<<<<<< HEAD
 process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(50))
+=======
+process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(100))
+>>>>>>> fcebc2888f73c33db18540b67efd6a7e09d78b15
 
 # Grid-control changes:
 gc_maxevents = '__MAX_EVENTS__'
@@ -565,7 +570,7 @@ process.RandomNumberGeneratorService = cms.Service("RandomNumberGeneratorService
 
 
 # for JEC cluster AK8 jets with lower pt (compare to miniAOD)
-addJetCollection(process,labelName = 'AK8PFPUPPI', jetSource = cms.InputTag('ak8PuppiJets'), algo = 'AK', rParam=0.8, genJetCollection=cms.InputTag('slimmedGenJetsAK8'), jetCorrections = ('AK8PFPuppi', ['L1FastJet', 'L2Relative', 'L3Absolute'], 'None'),pfCandidates = cms.InputTag('packedPFCandidates'),
+addJetCollection(process,labelName = 'AK8PFPUPPI', jetSource = cms.InputTag('ak8PuppiJets'), algo = 'AK', rParam=0.8, genJetCollection=cms.InputTag('slimmedGenJetsAK8'), jetCorrections = ('AK8PFchs', ['L1FastJet', 'L2Relative', 'L3Absolute'], 'None'),pfCandidates = cms.InputTag('packedPFCandidates'),
     pvSource = cms.InputTag('offlineSlimmedPrimaryVertices'),
     svSource = cms.InputTag('slimmedSecondaryVertices'),
     muSource =cms.InputTag( 'slimmedMuons'),
@@ -702,7 +707,7 @@ process.load('CommonTools.ParticleFlow.deltaBetaWeights_cff')
 #task.add(process.pfAllPhotons)
 #task.add(process.pfPileUpAllChargedParticles)
 #task.add(process.pfPileUp)
-#
+
 #load_elecPFMiniIso(process, 'elecPFMiniIsoSequencePFWGT', algo = 'PFWGT',
 #  src = 'slimmedElectrons',
 #  src_neutral_hadron = 'pfWeightedNeutralHadrons',
@@ -716,7 +721,7 @@ process.load('CommonTools.ParticleFlow.deltaBetaWeights_cff')
 #process.load('RecoEgamma.ElectronIdentification.egmGsfElectronIDs_cff')
 #process.electronMVAValueMapProducer.srcMiniAOD = cms.InputTag('slimmedElectrons')
 #process.egmGsfElectronIDs.physicsObjectSrc = cms.InputTag('slimmedElectrons')
-
+#
 #elecID_mod_ls = [
 #  'RecoEgamma.ElectronIdentification.Identification.cutBasedElectronID_Summer16_80X_V1_cff',
 #  'RecoEgamma.ElectronIdentification.Identification.cutBasedElectronHLTPreselecition_Summer16_V1_cff',
@@ -724,14 +729,21 @@ process.load('CommonTools.ParticleFlow.deltaBetaWeights_cff')
 #  'RecoEgamma.ElectronIdentification.Identification.mvaElectronID_Spring16_GeneralPurpose_V1_cff',
 #  'RecoEgamma.ElectronIdentification.Identification.mvaElectronID_Spring16_HZZ_V1_cff',
 #]
-
+#
 #from PhysicsTools.SelectorUtils.tools.vid_id_tools import *
 #for mod in elecID_mod_ls: setupAllVIDIdsInModule(process, mod, setupVIDElectronSelection)
+<<<<<<< HEAD
 
 # slimmedElectronsUSER ( = slimmedElectrons + USER variables)
 process.slimmedElectronsUSER = cms.EDProducer('PATElectronUserData',
   src = cms.InputTag('slimmedElectrons'),
+=======
+>>>>>>> fcebc2888f73c33db18540b67efd6a7e09d78b15
 #
+# slimmedElectronsUSER ( = slimmedElectrons + USER variables)
+process.slimmedElectronsUSER = cms.EDProducer('PATElectronUserData',
+  src = cms.InputTag('slimmedElectrons'),
+
 #  vmaps_bool = cms.PSet(
 #
 #    cutBasedElectronID_Summer16_80X_V1_veto   = cms.InputTag('egmGsfElectronIDs:cutBasedElectronID-Summer16-80X-V1-veto'),
@@ -751,9 +763,15 @@ process.slimmedElectronsUSER = cms.EDProducer('PATElectronUserData',
 #  ),
 #
 #  vmaps_double = cms.vstring(el_isovals),
+<<<<<<< HEAD
 #
   effAreas_file = cms.FileInPath('RecoEgamma/ElectronIdentification/data/Summer16/effAreaElectrons_cone03_pfNeuHadronsAndPhotons_80X.txt'),
 #
+=======
+
+  effAreas_file = cms.FileInPath('RecoEgamma/ElectronIdentification/data/Summer16/effAreaElectrons_cone03_pfNeuHadronsAndPhotons_80X.txt'),
+
+>>>>>>> fcebc2888f73c33db18540b67efd6a7e09d78b15
 #  mva_GeneralPurpose = cms.string('ElectronMVAEstimatorRun2Spring16GeneralPurposeV1Values__user01'),
 #  mva_HZZ = cms.string('ElectronMVAEstimatorRun2Spring16HZZV1Values__user01'),
 )
